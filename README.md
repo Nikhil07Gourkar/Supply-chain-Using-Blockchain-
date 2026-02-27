@@ -23,10 +23,13 @@
 4. Open browser: http://localhost:3000
 
 ## Project Structure
-ml/              - Machine Learning Pipeline (Phase 1 & 2)
-blockchain/      - Solidity Smart Contract (Phase 3)
-bridge/          - FastAPI Blockchain Bridge (Phase 4)
-dashboard/       - React.js Dashboard (Phase 5)
+ml              - Machine Learning Pipeline (Phase 1 & 2)
+
+blockchain      - Solidity Smart Contract (Phase 3)
+
+bridge          - FastAPI Blockchain Bridge (Phase 4)
+
+dashboard       - React.js Dashboard (Phase 5)
 
 ## Tech Stack
 - Python, scikit-learn, FastAPI, Web3.py
