@@ -8,8 +8,6 @@
 ![Ganache](https://img.shields.io/badge/Ganache-7.9.2-E4A663)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> **Final Year Engineering Project — B.E. / B.Tech Computer Science & Engineering**
-
 ---
 
 ## 📌 Overview
