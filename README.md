@@ -10,7 +10,7 @@
 
 ### Steps
 1. Start Ganache:
-   ganache --port 7545 --accounts 10 --deterministic
+   ganache --port 7545 --accounts 10 --deterministic --db "C:\Users\gourk\ganache-data"
 
 2. Start API Bridge:
    cd bridge
