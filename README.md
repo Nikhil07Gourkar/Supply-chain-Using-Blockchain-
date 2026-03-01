@@ -160,7 +160,7 @@ ganache --port 7545 --accounts 10 --deterministic --db "ganache-data"
 2. Paste `SecureSupplyChain.sol`
 3. Compile with Solidity 0.8.19
 4. Deploy using Dev - Ganache Provider (`http://127.0.0.1:7545`)
-5. Copy the deployed contract address
+5. Copy the deployed contract address and paste at deploy and verify
 
 ### Step 5 — Update Contract Address
 Open `bridge/blockchain_bridge.py` and update:
